@@ -1,0 +1,46 @@
+body{
+clear:none;
+width: 970;
+}
+.mq{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /*padding-left: 10px;*/
+  /*padding-right: 10px;*/
+  text-align-last: center;
+  background: #4aaaa5;
+  color: white;
+  margin-top: 0;
+  width: 12%;
+  font-family: Georgia;
+
+}
+
+.tabs{
+  color: #837F7F;
+  font-family: serif;
+  float: right;
+  margin-top: 0;
+
+}
+
+.header{
+background-color: #ffffff;
+border-bottom-style: solid;
+border-color: #cccccc;
+
+}
+
+.firstdiv{
+  width:650px;
+}
+
+.aboutme{
+  color:#4aaaa5;
+  font-family: Times;
+
+}
+
+.text{
+  float:right;
+}
