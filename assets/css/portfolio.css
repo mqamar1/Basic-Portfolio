@@ -1,8 +1,15 @@
 body{
+background-color: #EDEBEB;
 clear:none;
-width: 970;
+/*width: 970px;*/
 }
+/*.header{
+  position: absolute;
+  top:0;
+}*/
 .mq{
+  /*position: absolute;
+  top:0;*/
   padding-top: 20px;
   padding-bottom: 20px;
   /*padding-left: 10px;*/
@@ -10,9 +17,12 @@ width: 970;
   text-align-last: center;
   background: #4aaaa5;
   color: white;
-  margin-top: 0;
-  width: 12%;
+  margin: 0;
+  width: 18%;
   font-family: Georgia;
+  margin-left: 90px;
+  margin-top: -10px;
+
 
 }
 
@@ -20,7 +30,9 @@ width: 970;
   color: #837F7F;
   font-family: serif;
   float: right;
-  margin-top: 0;
+  margin-top: -43px;
+  margin-right: 150px;
+
 
 }
 
@@ -32,15 +44,99 @@ border-color: #cccccc;
 }
 
 .firstdiv{
+  border: solid;
+  border-color: white;
+  background-color: white;
   width:650px;
+  margin-left: 70px;
+  margin-bottom: 40px;
+  margin-top: 40px;
 }
 
 .aboutme{
   color:#4aaaa5;
   font-family: Times;
+  border-bottom-style: solid;
+  border-color: #dddddd;
+  margin-left: 20px;
+  padding-bottom: 20px
+  }
+
+.bigsur{
+  float:left;
+  width:20%;
+  margin-right:20px;
+  margin-left: 20px;
+  margin-bottom: -10px;
+
 
 }
 
 .text{
+  line-height: 2;
+  font-size: 18px;
+  margin-right: 40px;
+  margin-bottom: -30px;
+  margin-left: 20px;
+
+
+
+  /*font-size: 18px;*/
+}
+
+.text2{
+  line-height: 2;
+  font-size: 18px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+  padding-top: 10px;
+  margin-left: 20px;
+
+
+
+
+}
+
+.seconddiv{
   float:right;
+  margin-top: -490px;
+  margin-right: 180px;
+  width:230px;
+  border: solid;
+  border-color: white;
+  background-color: white;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+.one{
+  margin-right: 20px;
+}
+
+.two{
+  margin-right: 20px;
+}
+
+.cwm{
+  color:#4aaaa5;
+  border-bottom-style: solid;
+  border-color: #dddddd;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.cpy{
+  background-color: #666666;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-top-style: solid;
+  border-color: #4aaaa5;
+  margin-right: 0;
+  border-top-width: thick;
+
+}
+.copyright{
+  text-align: center;
+  color:#CBC0C0;
+
 }
