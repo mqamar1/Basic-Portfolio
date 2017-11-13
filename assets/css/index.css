@@ -101,20 +101,24 @@ border-color: #cccccc;
   float:right;
   margin-top: -490px;
   margin-right: 180px;
-  width:230px;
+  width:270px;
   border: solid;
   border-color: white;
   background-color: white;
-  padding-left: 20px;
+  /*padding-left: 20px;*/
   padding-bottom: 20px;
-  padding-right: 20px;
+  /*padding-right: 20px;*/
 }
 .one{
-  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .two{
-  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.three{
+  margin-left: 30px;
 }
 
 .cwm{
