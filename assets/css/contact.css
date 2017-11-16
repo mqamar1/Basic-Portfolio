@@ -1,5 +1,6 @@
 body{
 background-color: #EDEBEB;
+background: url("../images/grey_sandbag.png")
 
 
 
@@ -139,6 +140,9 @@ border-color: #cccccc;
   border-color: #4aaaa5;
   border-top-width: thick;
   margin-top: -50px;
+  bottom:0;
+  position:relative;
+  width:100%;
 
 }
 .copyright{

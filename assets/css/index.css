@@ -1,6 +1,8 @@
 body{
-background-color: #EDEBEB;
+/*background-color: #EDEBEB;*/
 clear:none;
+background: url("../images/grey_sandbag.png")
+ /*background-color:#EDEBEB*/
 /*width: 970px;*/
 }
 /*.header{
@@ -40,6 +42,7 @@ clear:none;
 background-color: #ffffff;
 border-bottom-style: solid;
 border-color: #cccccc;
+
 
 }
 
