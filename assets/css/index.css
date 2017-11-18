@@ -29,11 +29,13 @@ background: url("../images/grey_sandbag.png");
 }
 
 .tabs{
+  text-decoration: none;
   color: #837F7F;
   font-family: serif;
   float: right;
   margin-top: -43px;
   margin-right: 150px;
+
 
 
 }
@@ -139,6 +141,8 @@ border-color: #cccccc;
   border-top-style: solid;
   border-color: #4aaaa5;
   border-top-width: thick;
+  
+
 
 }
 .copyright{
